@@ -2,14 +2,12 @@
 
 ![logo](_media/icon.png)
 
-# Nuggets Of Mana <small>0.1</small>
+# Nuggets Of Mana Bible (NOM)<small>0.1</small>
 
-> NOM Nom nom ... your Daily Bread of God 
+> Nom nom nom ... your Daily Bread of God 
 
-- Nurture Our Mission
-- Nourish Our Minds
 - Entirely new type of bible category: "Verse-Integrated-Commentary"
-- Easy to understand, study notes integrated directly into the narrative of each verse
+- Easy to understand, explanations directly integrated into the narrative
 - For the modern, evangelical Christian
 - Your daily bread, read it daily
 
