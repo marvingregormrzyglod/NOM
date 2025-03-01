@@ -2,13 +2,16 @@
 
 ![logo](_media/icon.png)
 
-# docsify <small>3.5</small>
+# Nuggets Of Mana <small>0.1</small>
 
-> A new bible
+> NOM Nom nom ... your Daily Bread of God 
 
-- For evangelicals
-- Daily reading
-- Easy to understand
+- Nurture Our Mission
+- Nourish Our Minds
+- Entirely new type of bible category: "Verse-Integrated-Commentary"
+- Easy to understand, study notes integrated directly into the narrative of each verse
+- For the modern, evangelical Christian
+- Your daily bread, read it daily
 
 [Start Reading](#john)
 
