@@ -11,25 +11,26 @@
       href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css"
     />
     <style>
-    /* Remove the overlay by targeting the cover background */
-    .cover {
-      background: url('_media/bg.png') no-repeat center center fixed;
-      background-size: cover;
-      position: relative;
-    }
-
-    /* Remove any semi-transparent overlay */
-    .cover::before {
-      content: none !important; /* Disable any pseudo-element overlay */
-    }
-
-    /* Ensure the main content area doesn’t add a tint */
-    .cover-main {
-      background: transparent !important;
-      position: relative;
-      z-index: 1;
-    }
-  </style>
+      /* Target the cover and remove any overlay or background tint */
+      .cover {
+        background: url('_media/bg.png') no-repeat center center fixed !important;
+        background-size: cover !important;
+        position: relative;
+      }
+      .cover::before {
+        content: none !important; /* Completely remove the pseudo-element overlay */
+      }
+      /* Ensure no white background or opacity in the main content area */
+      .cover-main {
+        background: transparent !important;
+        background-color: transparent !important; /* Explicitly clear any color */
+        opacity: 1 !important; /* Prevent inherited opacity */
+      }
+      /* Ensure the app container doesn’t interfere */
+      #app {
+        background: transparent !important;
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>
