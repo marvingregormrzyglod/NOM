@@ -10,6 +10,16 @@
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css"
     />
+    <style>
+      /* Adjust the overlay opacity */
+      .cover::before {
+        background: rgba(0, 0, 0, 0.1) !important; /* 10% opacity, adjust as needed */
+      }
+      /* Ensure the main content area doesn’t add extra background */
+      .cover-main {
+        background: transparent !important;
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>
