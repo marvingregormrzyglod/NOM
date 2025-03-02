@@ -1,21 +1,22 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.png)
+![logo](_media/icon.svg)
 
-# Nuggets Of Mana Bible (NOM)<small>0.1</small>
+# Nuggets Of Manna<small>0.1</small>
 
-> Nom nom nom ... your Daily Bread of God 
+> Nom nom nom ... your daily bread
 
-- Entirely new type of bible category: "Verse-Integrated-Commentary"
-- Easy to understand, explanations directly integrated into the narrative
-- For the modern, evangelical Christian
-- Your daily bread, read it daily
+- A new bible translation
+- Designed for those who read scripture in bite-sized chunks
+- Ideal for busy professionals seeking biblical nourishment
+- Study explanations directly interwoven into the narrative
+- For the modern Christian who wants to make disciples
 
 [Start Reading](#john)
 
 <!-- background image -->
 
-![](_media/bg.png)
+![](_media/bg.svg)
 
 <!-- background color -->
 
