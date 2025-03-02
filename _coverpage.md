@@ -7,17 +7,10 @@
 > Nom nom nom ... your daily bread
 
 - A new bible translation
-- Designed for those who read scripture in bite-sized chunks
-- Ideal for busy professionals seeking biblical nourishment
-- Study explanations directly interwoven into the narrative
-- For the modern Christian who wants to make disciples
-
-[Start Reading](#john)
+- Read in bite-sized chunks
+- Designed for busy professionals
 
 <!-- background image -->
 
 ![](_media/bg.png)
 
-<!-- background color -->
-
-![color](#f0f0f0)
