@@ -16,7 +16,7 @@
 
 <!-- background image -->
 
-![](_media/bg.svg)
+![](_media/bg.png)
 
 <!-- background color -->
 
