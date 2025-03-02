@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](_media/icon.svg) 
 
 # Nuggets Of Manna<small>0.1</small>
 
