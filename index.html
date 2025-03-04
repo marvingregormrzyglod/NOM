@@ -1,5 +1,3 @@
-<!-- index.html -->
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -10,34 +8,12 @@
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css"
     />
-    <style>
-      /* Target the cover and remove any overlay or background tint */
-      .cover {
-        background: url('_media/bg.png') no-repeat center center fixed !important;
-        background-size: cover !important;
-        position: relative;
-      }
-      .cover::before {
-        content: none !important; /* Completely remove the pseudo-element overlay */
-      }
-      /* Ensure no white background or opacity in the main content area */
-      .cover-main {
-        background: transparent !important;
-        background-color: transparent !important; /* Explicitly clear any color */
-        opacity: 1 !important; /* Prevent inherited opacity */
-      }
-      /* Ensure the app container doesn’t interfere */
-      #app {
-        background: transparent !important;
-      }
-    </style>
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
-        loadSidebar: true,
-        coverpage: true
+        loadSidebar: true
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
