@@ -1,4 +1,5 @@
 # The Gospel of John
+## Chapter 1
 ¹ In the beginning before anything was created, there existed Jesus. Jesus was with God the Father in perfect fellowship, and Jesus was himself fully God. This eternal relationship within God reveals the foundational truth that God exists in community.
 
 ² Jesus was present with God the Father in the beginning before time began. Their relationship wasn't created at some point but has always existed in perfect harmony, revealing the eternal nature of Christ before His human incarnation.
