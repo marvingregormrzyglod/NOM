@@ -2,38 +2,42 @@
 
   ## Psalm 23
 
-¹ Jesus, my caring Shepherd, ensures I lack nothing good. He provides peace beyond circumstances, inviting all to trust His guidance, for He alone fulfills every need of the heart.
+¹ The Lord, the Almighty and loving Shepherd, is my guide and provider; because He cares for me, I lack nothing that is truly needed. He watches over me with tender care, ensuring that my soul is nourished, my heart is secure, and my path is clear. No earthly wealth or status could offer the peace and fulfillment that come from His presence.
 
-² God the Father gifts rest in life’s chaos, guiding minds to His truth. Like tender grass nourished by streams, He renews weary souls, teaching us to share this hope with others.
+² He leads me to rest in green pastures, places of abundance and peace, where my soul finds refreshment, and He brings me beside still waters, calm and pure, quenching the thirst of my weary spirit. He does not rush me but invites me to dwell in His peace, restoring my strength as a loving shepherd tends to his flock.
 
-³ He redirects wandering hearts to live like Him—merciful and just. Though choices may confuse, His name’s promise reminds: Jesus walks with you, restoring purpose in every step.
+³ He restores my soul when I am weary, lifting me up when I stumble, healing what is broken within me. He leads me on the right path, teaching me to walk in ways that reflect His holiness and love, not for my glory, but for the honor of His name, so that the world may see His goodness in my life.
 
-⁴ Even in death’s shadow, I fear no harm, for the Holy Spirit’s presence shields me. His truth, a steady staff, comforts doubt, proving God’s love overpowers darkness.
+⁴ Even when I walk through the darkest valley, through trials, suffering, and the shadow of death itself, I will not be afraid, for You, Lord, are with me. Your rod corrects me when I stray, and Your staff guides and protects me, reminding me that I am never alone. In Your presence, fear has no hold.
 
-⁵ Jesus prepares grace amid opposition, anointing heads with dignity. His blessings overflow; critics see His goodness in us, drawing them to His endless mercy.
+⁵ You prepare a feast before me, even in the presence of my enemies, showing them that Your favor rests upon me. You anoint my head with oil, marking me as Your own, blessing me with more than I could ask or deserve. My cup overflows with Your goodness, for You are generous beyond measure.
 
-⁶ God’s kindness and the Spirit’s voice will pursue you always. Dwell in Jesus’ presence forever—He is home, safety, and the joy every heart seeks.
+⁶ Surely, Your goodness and unfailing mercy will follow me every day of my life, never leaving me, never failing me. And at the end of my journey, I will dwell in Your house, Lord, forever, resting in the place of eternal joy, where Your love never fades, and my soul is home at last.
 
 ## Psalm 36
-¹ Sin whispers to the wicked, blinding their hearts. Their pride traps them in lies, refusing God the Father’s truth. Without reverence, they stumble, unaware of Jesus’ light breaking through their self-made darkness.
+¹ My heart understands how sin speaks to the wicked person deep inside, telling them to do wrong things. They have no fear of God the Father, which is why they continue making these harmful choices that hurt themselves and others around them.
 
-² They convince themselves their flaws go unseen, clinging to harmful paths. But God the Father sees every hidden motive. Those who mock His grace unknowingly invite emptiness into their souls.
+² These people deceive themselves, thinking their sinful actions will never be discovered or punished by God the Father. They refuse to see how their hatred creates destruction in their lives and communities.
 
-³ Their words twist goodness into chaos, forgetting Jesus’ call to love. When actions lack the Holy Spirit’s wisdom, lives fracture like dry ground thirsting for rain.
+³ Their words spread falsehood and their once-good judgment has disappeared. They've abandoned doing what's right and helping others grow, choosing instead paths that lead themselves and others away from healing and wholeness.
 
-⁴ Even in shadows, they plot harm, ignoring God the Father’s voice. Yet His mercy waits, wider than oceans—He alone transforms stubborn hearts into gardens of hope.
+⁴ Even when they should be resting at night, they plot harmful schemes. They commit to walking paths that bring pain, never rejecting what is evil but embracing it fully as their way of life.
 
-⁵ God the Father’s love stretches beyond the heavens; His faithfulness outshines the sun. Jesus’ justice anchors the world, steady as mountains rooted deep in the earth.
+⁵ Your faithful love, God the Father, reaches higher than the sky itself. Your unwavering commitment to keep your promises extends beyond what our eyes can see, reminding us of your eternal nature.
 
-⁶ His goodness cradles all life, like air filling every lung. To know Him is to wake from sleep, discovering a feast of grace prepared for the humble.
+⁶ Your justice stands stronger than mountain ranges, and your decisions about right and wrong reach deeper than ocean depths. You care for and sustain both humans and animals with perfect wisdom and abundant provision.
 
-⁷ How precious is Your love, God the Father! All humanity shelters in Your embrace. Trusting Jesus, we drink freely from rivers of joy that never run dry.
+⁷ How precious is your unfailing love, God the Father! All people can find protection under your care, like chicks finding safety beneath their mother's wings during dangerous storms or threats from predators.
 
-⁸ The Holy Spirit’s light satisfies our deepest hunger, guiding us to share this peace. In His presence, fear melts, and life overflows with purpose.
+⁸ They feast abundantly on the goodness you provide in your house. You let them drink from your river of delights, which represents your Spirit's presence bringing joy and satisfaction nothing else can match.
 
-⁹ For You are life itself, Jesus. Your truth pierces darkness, revealing paths where brokenness finds healing. To follow You is to walk in unending dawn.
+⁹ For with you, God the Father, is the fountain where all life begins and continues. In your light of truth and revelation, we see light that guides our steps and illuminates our understanding of ourselves and the world.
 
-¹⁰ Keep us rooted in Your love, God the Father. Protect us from pride’s traps. Let the Holy Spirit’s whispers drown out the world’s noise, drawing others home.
+¹⁰ Continue showing your love to those who truly know you, and maintain your goodness toward those whose hearts are honest. Help them experience your love more deeply so they can share it with others who don't yet know you.
+
+¹¹ Don't let proud people walk over me or push me down with their feet. Don't let wicked hands force me away from following your guidance into places where I might fall into sin and separation from you.
+
+¹² Look at what happened to those who practice evil—they have fallen down and cannot get up again. They've been thrown down and cannot return to their former position because they separated themselves from your life-giving presence.
 
 ## Psalm 127
 
