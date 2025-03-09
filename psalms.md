@@ -15,25 +15,18 @@
 ⁶ Surely, Your goodness and unfailing mercy will follow me every day of my life, never leaving me, never failing me. And at the end of my journey, I will dwell in Your house, Lord, forever, resting in the place of eternal joy, where Your love never fades, and my soul is home at last.
 
 ## Psalm 36
-¹ Sin whispers to the wicked, blinding their hearts. Their pride traps them in lies, refusing God the Father’s truth. Without reverence, they stumble, unaware of Jesus’ light breaking through their self-made darkness.
-
-² They convince themselves their flaws go unseen, clinging to harmful paths. But God the Father sees every hidden motive. Those who mock His grace unknowingly invite emptiness into their souls.
-
-³ Their words twist goodness into chaos, forgetting Jesus’ call to love. When actions lack the Holy Spirit’s wisdom, lives fracture like dry ground thirsting for rain.
-
-⁴ Even in shadows, they plot harm, ignoring God the Father’s voice. Yet His mercy waits, wider than oceans—He alone transforms stubborn hearts into gardens of hope.
-
-⁵ God the Father’s love stretches beyond the heavens; His faithfulness outshines the sun. Jesus’ justice anchors the world, steady as mountains rooted deep in the earth.
-
-⁶ His goodness cradles all life, like air filling every lung. To know Him is to wake from sleep, discovering a feast of grace prepared for the humble.
-
-⁷ How precious is Your love, God the Father! All humanity shelters in Your embrace. Trusting Jesus, we drink freely from rivers of joy that never run dry.
-
-⁸ The Holy Spirit’s light satisfies our deepest hunger, guiding us to share this peace. In His presence, fear melts, and life overflows with purpose.
-
-⁹ For You are life itself, Jesus. Your truth pierces darkness, revealing paths where brokenness finds healing. To follow You is to walk in unending dawn.
-
-¹⁰ Keep us rooted in Your love, God the Father. Protect us from pride’s traps. Let the Holy Spirit’s whispers drown out the world’s noise, drawing others home.
+¹ My heart understands how sin speaks to the wicked person deep inside, telling them to do wrong things. They have no fear of God the Father, which is why they continue making these harmful choices that hurt themselves and others around them.
+² These people deceive themselves, thinking their sinful actions will never be discovered or punished by God the Father. They refuse to see how their hatred creates destruction in their lives and communities.
+³ Their words spread falsehood and their once-good judgment has disappeared. They've abandoned doing what's right and helping others grow, choosing instead paths that lead themselves and others away from healing and wholeness.
+⁴ Even when they should be resting at night, they plot harmful schemes. They commit to walking paths that bring pain, never rejecting what is evil but embracing it fully as their way of life.
+⁵ Your faithful love, God the Father, reaches higher than the sky itself. Your unwavering commitment to keep your promises extends beyond what our eyes can see, reminding us of your eternal nature.
+⁶ Your justice stands stronger than mountain ranges, and your decisions about right and wrong reach deeper than ocean depths. You care for and sustain both humans and animals with perfect wisdom and abundant provision.
+⁷ How precious is your unfailing love, God the Father! All people can find protection under your care, like chicks finding safety beneath their mother's wings during dangerous storms or threats from predators.
+⁸ They feast abundantly on the goodness you provide in your house. You let them drink from your river of delights, which represents your Spirit's presence bringing joy and satisfaction nothing else can match.
+⁹ For with you, God the Father, is the fountain where all life begins and continues. In your light of truth and revelation, we see light that guides our steps and illuminates our understanding of ourselves and the world.
+¹⁰ Continue showing your love to those who truly know you, and maintain your goodness toward those whose hearts are honest. Help them experience your love more deeply so they can share it with others who don't yet know you.
+¹¹ Don't let proud people walk over me or push me down with their feet. Don't let wicked hands force me away from following your guidance into places where I might fall into sin and separation from you.
+¹² Look at what happened to those who practice evil—they have fallen down and cannot get up again. They've been thrown down and cannot return to their former position because they separated themselves from your life-giving presence.
 
 ## Psalm 127
 
