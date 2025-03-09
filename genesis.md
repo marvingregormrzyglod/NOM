@@ -1,4 +1,5 @@
 # Genesis
+## Chapter 1
 ¹ In the beginning, God the Father created the heavens and the earth, establishing His role as Creator of everything that exists. This foundational truth reveals that the universe isn't eternal or accidental but purposefully designed by a personal, intelligent Creator.
 
 ² The earth was formless and completely empty, with deep darkness covering the vast waters, and the Spirit of God was hovering over the waters. This initial chaotic state awaited God's ordering touch, while the Holy Spirit's presence indicated divine involvement from the beginning.
