@@ -16,16 +16,27 @@
 
 ## Psalm 36
 ¹ My heart understands how sin speaks to the wicked person deep inside, telling them to do wrong things. They have no fear of God the Father, which is why they continue making these harmful choices that hurt themselves and others around them.
+
 ² These people deceive themselves, thinking their sinful actions will never be discovered or punished by God the Father. They refuse to see how their hatred creates destruction in their lives and communities.
+
 ³ Their words spread falsehood and their once-good judgment has disappeared. They've abandoned doing what's right and helping others grow, choosing instead paths that lead themselves and others away from healing and wholeness.
+
 ⁴ Even when they should be resting at night, they plot harmful schemes. They commit to walking paths that bring pain, never rejecting what is evil but embracing it fully as their way of life.
+
 ⁵ Your faithful love, God the Father, reaches higher than the sky itself. Your unwavering commitment to keep your promises extends beyond what our eyes can see, reminding us of your eternal nature.
+
 ⁶ Your justice stands stronger than mountain ranges, and your decisions about right and wrong reach deeper than ocean depths. You care for and sustain both humans and animals with perfect wisdom and abundant provision.
+
 ⁷ How precious is your unfailing love, God the Father! All people can find protection under your care, like chicks finding safety beneath their mother's wings during dangerous storms or threats from predators.
+
 ⁸ They feast abundantly on the goodness you provide in your house. You let them drink from your river of delights, which represents your Spirit's presence bringing joy and satisfaction nothing else can match.
+
 ⁹ For with you, God the Father, is the fountain where all life begins and continues. In your light of truth and revelation, we see light that guides our steps and illuminates our understanding of ourselves and the world.
+
 ¹⁰ Continue showing your love to those who truly know you, and maintain your goodness toward those whose hearts are honest. Help them experience your love more deeply so they can share it with others who don't yet know you.
+
 ¹¹ Don't let proud people walk over me or push me down with their feet. Don't let wicked hands force me away from following your guidance into places where I might fall into sin and separation from you.
+
 ¹² Look at what happened to those who practice evil—they have fallen down and cannot get up again. They've been thrown down and cannot return to their former position because they separated themselves from your life-giving presence.
 
 ## Psalm 127
