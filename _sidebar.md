@@ -17,5 +17,5 @@
  
 - Info
 
-  - Changelog
+  - [Changelog](changelog.md)
   - [License](LICENSE.md)
