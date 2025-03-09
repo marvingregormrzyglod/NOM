@@ -44,4 +44,20 @@
 
 ²¹ Everyone else seems concerned about their own interests rather than the interests of Jesus. They prioritize personal comfort, safety or advancement over Kingdom purposes and the spiritual needs of others.
 
-²² But you know Timothy's proven character, that like a son with his father, he has served with me in promoting the good news about Jesu
+²² But you know Timothy's proven character, that like a son with his father, he has served with me in promoting the good news about Jesus. His consistent faithfulness through hardship demonstrates his genuine commitment to Christ.
+
+²³ Therefore I hope to send him as soon as I see how things go with my legal situation. My uncertainty about my trial's outcome prevents immediate travel plans, but I'll send him when my circumstances become clearer.
+
+²⁴ And I trust in Jesus that I myself will come to visit you soon as well. This confidence isn't based on wishful thinking but on my faith that God the Father will work through even Roman authorities to accomplish His purposes.
+
+²⁵ Meanwhile, I considered it necessary to send back to you Epaphroditus, my brother, fellow worker, and fellow soldier, who is also your messenger whom you sent to take care of my needs during my imprisonment.
+
+²⁶ He longs to see all of you and has been distressed because you heard he was ill. His concern for your worry shows his deep love for you, prioritizing your emotional well-being above his own physical suffering.
+
+²⁷ Indeed he was so sick that he nearly died, but God the Father had mercy on him—and not just on him but also on me, to spare me from having sorrow upon sorrow during my already difficult imprisonment.
+
+²⁸ Therefore I am all the more eager to send him, so that when you see him again you may rejoice and I may have less anxiety. His return will comfort both you and me, demonstrating how Christian relationships ease burdens.
+
+²⁹ Welcome him in Jesus with great joy, and honor people like him highly. Those who risk their health and safety to serve others deserve special recognition from the community of believers as examples of Christ-like sacrifice.
+
+³⁰ For he nearly died for the work of Jesus, risking his life to complete what was lacking in your service to me. His physical presence provided what your distance prevented, making him your representative in meeting my needs.
