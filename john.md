@@ -100,3 +100,55 @@
 ⁵⁰ Jesus said, "You believe because I told you I saw you under the fig tree. You will see greater things than that." The initial evidence convincing Nathanael was just the beginning of increasingly powerful demonstrations of Jesus' identity and mission.
 
 ⁵¹ Then Jesus promised, "Very truly I tell you, you will see heaven open, and the angels of God ascending and descending on the Son of Man." This allusion to Jacob's ladder identified Jesus as the ultimate connection between heaven and earth.
+
+## Chapter 2
+¹ On the third day after calling His first disciples, a wedding celebration took place in Cana of Galilee. Jesus' mother Mary was there participating in this joyous community event that typically lasted several days and involved the entire village.
+
+² Jesus and His disciples had also been invited to the wedding, showing He valued normal human relationships and celebrations. His presence sanctified this everyday event and demonstrated God's approval of marriage and appropriate festivity.
+
+³ When the wine supply ran out during the festivities, Jesus' mother came to Him saying, "They have no more wine." This shortage would cause serious embarrassment to the family hosting the celebration and violate cultural hospitality expectations.
+
+⁴ Jesus responded, "Dear woman, why involve me? My time has not yet fully come." This wasn't disrespect but establishment of His divine mission's independence from family expectations. His ministry would follow God the Father's timing, not human pressure.
+
+⁵ His mother said to the servants, "Do whatever He tells you." Her response showed confidence in Jesus' ability and willingness to help despite His seemingly reluctant answer, demonstrating her faith in His compassion and power to address human needs.
+
+⁶ Nearby stood six stone water jars used for ceremonial washing, each holding twenty to thirty gallons. These large containers represented the Jewish system of external purification that Jesus would transform through His teaching about inner cleansing.
+
+⁷ Jesus instructed the servants, "Fill the jars with water." They filled them to the brim according to His instruction, unknowingly participating in the preparation for Jesus' first miraculous sign that would reveal His glory and divine identity.
+
+⁸ Then Jesus told them, "Now draw some out and take it to the master of the banquet who is managing the feast." The servants did as Jesus directed, bringing transformed water to the official responsible for ensuring the quality of food and drink.
+
+⁹ The master of the banquet tasted the water that had now become wine. He didn't know where this wine came from, though the servants who had drawn the water knew. The miracle happened invisibly, known only to those directly involved in serving.
+
+¹⁰ The master called the bridegroom aside and said, "Everyone serves the best wine first, and then the cheaper wine after guests have had too much to drink; but you have saved the best till now!"
+
+¹¹ Jesus performed this first miraculous sign at Cana in Galilee. He revealed His glory through this demonstration of creative power, and His disciples put their faith in Him more deeply. The miracle showed Jesus transforms the ordinary into extraordinary.
+
+¹² After this, Jesus went down to Capernaum with His mother, brothers, and disciples, and they stayed there for a few days. This brief family time preceded His first major public confrontation with religious authorities at the Jerusalem temple.
+
+¹³ When the Jewish Passover Festival was near, Jesus went up to Jerusalem to observe this required feast. His respect for Jewish law and tradition showed He came not to destroy but fulfill religious obligations while correcting misunderstandings about them.
+
+¹⁴ In the temple courts, He found people selling cattle, sheep, and doves for sacrifices, and others sitting at tables exchanging money. These services helped pilgrims obtain proper sacrificial animals and temple currency but had become exploitative.
+
+¹⁵ So Jesus made a whip from cords and drove all from the temple courts, both sheep and cattle. He scattered the coins of the money changers and overturned their tables, demonstrating righteous anger against religious corruption and exploitation.
+
+¹⁶ To those selling doves He said, "Get these out of here! Stop turning my Father's house into a marketplace!" His claim of special relationship with God the Father through the phrase "my Father's house" constituted a clear claim to divine authority.
+
+¹⁷ His disciples remembered the scripture that prophetically declared: "Zeal for your house will consume me." This connection between Jesus' actions and ancient prophecy helped them recognize His actions as fulfillment of God's plan rather than impulsive anger.
+
+¹⁸ The Jewish leaders challenged Him, "What miraculous sign can you show us to prove your authority to do these things?" They demanded credentials for His bold actions, unwilling to recognize the inherent moral authority in His stance against corruption.
+
+¹⁹ Jesus answered them, "Destroy this temple, and in three days I will raise it up again." His cryptic response pointed to His coming death and resurrection as the ultimate validation of His authority, though listeners misunderstood His reference.
+
+²⁰ The Jewish leaders replied with skepticism, "It has taken forty-six years to build this temple, and you will raise it in three days?" Their literal interpretation missed Jesus' deeper meaning about His body as the true dwelling place of God.
+
+²¹ But Jesus was speaking about the temple of His body that would be killed and then resurrected. This metaphor revealed that true worship would center not on a physical building but on relationship with Jesus Himself as God's presence among people.
+
+²² After He was raised from the dead, His disciples recalled what He had said, and they believed the scripture and the words Jesus had spoken. The resurrection provided retrospective clarity to teachings that were initially confusing or mysterious.
+
+²³ While Jesus was in Jerusalem at the Passover Festival, many people saw the miraculous signs He was performing and believed in His name. These signs demonstrated His divine power and identity, though many responded with shallow, sign-based faith only.
+
+²⁴ But Jesus would not entrust Himself to them, for He knew all people thoroughly. His perfect knowledge of human nature made Him aware that enthusiasm based only on miracles would not sustain commitment through the challenges of true discipleship.
+
+²⁵ He did not need anyone to testify about human nature, for He knew what was in each person's heart. This divine insight into human motivation and character revealed Jesus' omniscience, a quality belonging only to God, further confirming His divine identity.
+
