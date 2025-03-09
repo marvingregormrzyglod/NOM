@@ -2,17 +2,17 @@
 
   ## Psalm 23
 
-¹ Jesus, my caring Shepherd, ensures I lack nothing good. He provides peace beyond circumstances, inviting all to trust His guidance, for He alone fulfills every need of the heart.
+¹ The Lord, the Almighty and loving Shepherd, is my guide and provider; because He cares for me, I lack nothing that is truly needed. He watches over me with tender care, ensuring that my soul is nourished, my heart is secure, and my path is clear. No earthly wealth or status could offer the peace and fulfillment that come from His presence.
 
-² God the Father gifts rest in life’s chaos, guiding minds to His truth. Like tender grass nourished by streams, He renews weary souls, teaching us to share this hope with others.
+² He leads me to rest in green pastures, places of abundance and peace, where my soul finds refreshment, and He brings me beside still waters, calm and pure, quenching the thirst of my weary spirit. He does not rush me but invites me to dwell in His peace, restoring my strength as a loving shepherd tends to his flock.
 
-³ He redirects wandering hearts to live like Him—merciful and just. Though choices may confuse, His name’s promise reminds: Jesus walks with you, restoring purpose in every step.
+³ He restores my soul when I am weary, lifting me up when I stumble, healing what is broken within me. He leads me on the right path, teaching me to walk in ways that reflect His holiness and love, not for my glory, but for the honor of His name, so that the world may see His goodness in my life.
 
-⁴ Even in death’s shadow, I fear no harm, for the Holy Spirit’s presence shields me. His truth, a steady staff, comforts doubt, proving God’s love overpowers darkness.
+⁴ Even when I walk through the darkest valley, through trials, suffering, and the shadow of death itself, I will not be afraid, for You, Lord, are with me. Your rod corrects me when I stray, and Your staff guides and protects me, reminding me that I am never alone. In Your presence, fear has no hold.
 
-⁵ Jesus prepares grace amid opposition, anointing heads with dignity. His blessings overflow; critics see His goodness in us, drawing them to His endless mercy.
+⁵ You prepare a feast before me, even in the presence of my enemies, showing them that Your favor rests upon me. You anoint my head with oil, marking me as Your own, blessing me with more than I could ask or deserve. My cup overflows with Your goodness, for You are generous beyond measure.
 
-⁶ God’s kindness and the Spirit’s voice will pursue you always. Dwell in Jesus’ presence forever—He is home, safety, and the joy every heart seeks.
+⁶ Surely, Your goodness and unfailing mercy will follow me every day of my life, never leaving me, never failing me. And at the end of my journey, I will dwell in Your house, Lord, forever, resting in the place of eternal joy, where Your love never fades, and my soul is home at last.
 
 ## Psalm 36
 ¹ Sin whispers to the wicked, blinding their hearts. Their pride traps them in lies, refusing God the Father’s truth. Without reverence, they stumble, unaware of Jesus’ light breaking through their self-made darkness.
