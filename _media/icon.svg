@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="577.521 136.77 185.706 99.929" width="404.529px" height="131.254px" preserveAspectRatio="none">
-  <text style="fill: rgb(51, 51, 51); font-family: FreeSerif; font-size: 45.2px; white-space: pre;" x="6.017" y="-3.385" transform="matrix(1, 0, 0, 1, -8.822384, -31.099306)"><tspan x="590.38" y="203.574" style="font-size: 45.2px; word-spacing: 0px;">YumYum<tspan x="590.3800048828125" dy="1em">​</tspan></tspan><tspan style="font-family: FreeSans; font-weight: 700; font-size: 45.2px; word-spacing: 0px;">Bible</tspan></text>
-  <path style="fill: rgb(51, 51, 51); stroke: rgb(51, 51, 51);" d="M 712.316 184.347 C 711.559 184.202 707.565 186.261 707.633 188.073 L 708.575 228.243 L 712.047 223.944 L 712.316 184.347 Z"/>
-  <path style="stroke: rgb(51, 51, 51); fill: rgb(51, 51, 51);" d="M 712.453 184.319 L 748.622 184.198 L 748.602 191.215 L 740.268 191.334 L 740.299 209.682 L 731.869 209.592 L 731.789 216.626 L 725.942 216.537 L 726.004 223.961 L 712.596 223.961 L 712.453 184.319 Z"/>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 724.531 195.292 L 724.679 199.917 L 719.334 199.905 L 719.404 204.237 L 724.605 204.326 L 724.695 214.663 L 730.06 214.586 L 729.926 204.232 L 734.937 204.232 L 734.746 199.787 L 729.867 199.82 L 729.632 195.31 L 724.531 195.292 Z"/>
-  <path style="stroke: rgb(51, 51, 51); fill: rgb(51, 51, 51);" d="M 744.775 195.248 L 744.946 213.02 L 736.203 213.103 L 736.205 219.353 L 730.122 219.423 L 730.249 223.894 L 743.007 223.765 L 742.956 217.76 L 751.611 217.731 L 751.315 195.344 L 744.775 195.248 Z"/>
-  <rect x="839.873" y="251.344" width="7.286" height="6.121" style="stroke: rgb(51, 51, 51); fill: rgb(51, 51, 51);" transform="matrix(1, 0, 0, 1, -93.662125, -31.338722)"/>
-  <rect x="977.463" y="205.448" width="2.611" height="2.194" style="stroke: rgb(51, 51, 51); fill: rgb(51, 51, 51);" transform="matrix(1, 0, 0, 1, -221.027649, 18.585846)"/>
-  <rect x="344.015" y="79.469" width="1.795" height="1.508" style="stroke: rgb(51, 51, 51); fill: rgb(51, 51, 51);" transform="matrix(1, 0, 0, 1, 410.750214, 148.399277)"/>
-  <path style="stroke: rgb(51, 51, 51); stroke-linecap: square; fill: rgb(51, 51, 51);" d="M 708.598 229.301 C 708.598 229.87 709.149 231.395 711.454 231.427 L 751.017 231.239 L 750.986 229.031 L 708.64 229.273"/>
-  <rect x="584.302" y="228.791" width="122.656" height="3.126" style="fill: rgb(51, 51, 51);"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256.276 138.538">
+  <text style="fill: rgb(51, 51, 51); font-family: FreeSerif; font-size: 45.2px; white-space: pre;" x="6.017" y="-3.385" transform="matrix(1.2781, 0, 0, 1.2781, -738.875427, -205.340714)"><tspan x="590.38" y="203.574" style="font-size: 45.2px; word-spacing: 0px;">Yum<tspan x="590.3800048828125" dy="1em">​</tspan>Yum<tspan x="590.3800048828125" dy="1em">​</tspan></tspan></text>
+  <path style="fill: rgb(51, 51, 51); stroke: rgb(51, 51, 51);" d="M 150.687 18.626 C 149.171 18.333 141.169 22.458 141.302 26.086 L 143.192 106.567 L 150.149 97.957 L 150.687 18.626 Z"/>
+  <path style="stroke: rgb(51, 51, 51); fill: rgb(51, 51, 51);" d="M 150.964 18.569 L 223.426 18.326 L 223.388 32.382 L 206.689 32.621 L 206.75 69.382 L 189.862 69.2 L 189.703 83.295 L 177.987 83.116 L 178.111 97.988 L 151.247 97.988 L 150.964 18.569 Z"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 175.159 40.553 L 175.457 49.817 L 164.75 49.796 L 164.888 58.475 L 175.309 58.652 L 175.491 79.363 L 186.239 79.206 L 185.969 58.464 L 196.009 58.464 L 195.625 49.558 L 185.851 49.624 L 185.381 40.587 L 175.159 40.553 Z"/>
+  <path style="stroke: rgb(51, 51, 51); fill: rgb(51, 51, 51);" d="M 215.719 40.462 L 216.061 76.068 L 198.543 76.236 L 198.548 88.758 L 186.363 88.897 L 186.615 97.857 L 212.177 97.598 L 212.073 85.566 L 229.412 85.507 L 228.822 40.655 L 215.719 40.462 Z"/>
+  <rect x="218.605" y="90.065" width="14.596" height="12.264" style="stroke: rgb(51, 51, 51); fill: rgb(51, 51, 51);"/>
+  <rect x="1958.34" y="411.614" width="5.232" height="4.395" style="stroke: rgb(51, 51, 51); fill: rgb(51, 51, 51);" transform="matrix(1, 0, 0, 1, -1719.252441, -313.47702)"/>
+  <rect x="285.373" y="148.027" width="3.596" height="3.02" style="stroke: rgb(51, 51, 51); fill: rgb(51, 51, 51);" transform="matrix(1, 0, 0, 1, -49.637684, -42.210835)"/>
+  <path style="stroke: rgb(51, 51, 51); stroke-linecap: square; fill: rgb(51, 51, 51);" d="M 143.238 108.686 C 143.238 109.828 144.341 112.884 148.96 112.948 L 228.225 112.571 L 228.159 108.146 L 143.324 108.634"/>
 </svg>
