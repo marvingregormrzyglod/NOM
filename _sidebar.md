@@ -6,6 +6,7 @@
 
 - Old Testament
 
+  - [Genesis](genesis.md)
   - [Psalms](psalms.md)
 
 - New Testament
