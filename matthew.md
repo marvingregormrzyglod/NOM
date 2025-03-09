@@ -1,39 +1,47 @@
   # The Gospel of Matthew
 
   ## Chapter 6
-¹ Be careful not to perform kind acts for others’ applause—this hollow show robs eternal reward. God the Father sees secret motives; true generosity flows from love, not pride.
+¹ Be careful not to perform your religious duties in front of others just to be seen and praised by them. If gaining human approval is your primary motivation, you'll receive no reward from God the Father who values sincere hearts above public displays of piety.
 
-² When giving, don’t announce it like actors seeking praise. Compassion done in silence binds you to heaven’s heart.
+² When you give to those in need, don't announce it with trumpets as the hypocrites do in places of worship and on streets. They seek human praise as their full reward, but this temporary recognition cannot compare to God the Father's eternal approval.
 
-³ Even your left hand needn’t know your right’s generosity. God values quiet humility—He reshapes souls unnoticed.
+³ Instead, when giving to those in need, don't let your left hand know what your right hand is doing. This metaphor means keeping your generosity so private that you almost forget your own acts of kindness rather than dwelling on them with pride.
 
-⁴ Give, pray, and fast in hiddenness. God the Father, who sees beyond appearances, will honor your authenticity.
+⁴ Give in secret where only God the Father sees, and He will reward you openly in His timing and way. This reward may come as inner peace, spiritual growth, or future blessing rather than immediate material prosperity or public recognition.
 
-⁵ Avoid praying loudly in crowds to impress. Jesus taught: Retreat to solitude; raw, private prayer deepens trust in Him.
+⁵ When you pray, don't be like hypocrites who love standing in worship places and street corners to be seen praying. They perform for human audiences, missing the true purpose of prayer as intimate communication with God the Father.
 
-⁶ Close the door, speak plainly to God. He’s not dazzled by eloquence but moved by hearts seeking His presence.
+⁶ When you pray, go into your private room, close the door, and pray to God the Father who is unseen. He sees what happens in secret places and will reward authentic relationship with Him through answered prayers and spiritual transformation.
 
-⁷ Don’t repeat empty phrases, thinking volume earns answers. The Holy Spirit already knows your needs before you ask.
+⁷ When praying, don't babble with meaningless repetitions like those who don't know God the Father, thinking they'll be heard because of many words. Prayer effectiveness doesn't depend on length or eloquence but on sincerity and alignment with God's will.
 
-⁸ Pray like this: “God the Father, may Your name be honored above all. Bring Your kingdom’s peace; align our wills with Yours.”
+⁸ Don't pray like them, for God the Father knows what you need before you ask. Prayer's purpose isn't informing God of needs He's unaware of, but developing relationship with Him and aligning your heart with His perfect purposes.
 
-⁹ “Provide what we need today. Forgive our failures as we release grudges. Guard us from temptation’s traps.”
+⁹ Pray like this: "Our Father in heaven, may your name be honored as holy." This acknowledges God's parental love yet sovereign majesty, beginning prayer with worship rather than requests, recognizing His perfect character deserves reverence.
 
-¹⁰ “For Yours is the eternal power—not wealth or fame.” This prayer anchors you in God’s priorities, not fleeting cravings.
+¹⁰ "May your Kingdom come and your will be done on earth as it is in heaven." This expresses desire for God the Father's perfect rule to transform our troubled world, submitting our agenda to His wiser purposes.
 
-¹¹ If you forgive others’ wrongs, God the Father’s mercy floods your soul. Unforgiveness cages you in darkness.
+¹¹ "Give us today our daily bread." This acknowledges God the Father as provider of all physical and spiritual necessities, teaching dependence on Him for each day's needs rather than anxious stockpiling for uncertain futures.
 
-¹² Fasting isn’t for pity—cleanse your heart, not just your body. Let hunger remind you: True fullness comes from Jesus.
+¹² "Forgive us our debts as we forgive our debtors." This recognizes our need for forgiveness while committing to extend the same mercy to others who harm us. Receiving God's forgiveness creates obligation to forgive others.
 
-¹³ Don’t hoard money; earthly treasures fade. Invest in heaven’s economy—kindness, justice, and sharing Christ’s hope.
+¹³ "Lead us not into temptation but deliver us from the evil one." This humbly admits our vulnerability to spiritual deception and moral failure, seeking God the Father's protection from situations beyond our spiritual strength to resist.
 
-¹⁴ Your heart clings to what you treasure. Fix your passion on Jesus’ eternal kingdom, not temporary distractions.
+¹⁴ If you forgive others when they sin against you, God the Father will forgive your sins as well. Your treatment of others reveals your true understanding of the mercy you've received and affects your spiritual relationship with God.
 
-¹⁵ Life is more than food or clothes. Trust God the Father—He cares for sparrows; how much more for you?
+¹⁵ But if you refuse to forgive others, God the Father will not forgive your sins. An unforgiving spirit demonstrates you haven't truly grasped your own need for mercy and blocks your ability to experience God's forgiveness fully.
 
-¹⁶ Anxiety adds nothing to your life. Seek His kingdom first; the Holy Spirit will provide what you need daily.
+¹⁶ When fasting, don't look somber like hypocrites who disfigure their faces to show others they're fasting. They've received their full reward in human recognition, missing the spiritual benefits that come from genuine self-denial focused on God.
 
-¹⁷ Don’t borrow tomorrow’s troubles. Each moment is a chance to rest in God the Father’s faithful love.
+¹⁷ When fasting, comb your hair and wash your face so your fasting isn't obvious to others. This maintains the private nature of spiritual discipline as between you and God the Father rather than as public performance.
+
+¹⁸ Fast in a way that only God the Father, who sees what is done in secret, will notice. He will reward genuine spiritual hunger that seeks Him rather than human approval, with deeper intimacy and spiritual growth through the discipline.
+
+¹⁹ Don't store up treasures on earth where insects and rust destroy, and thieves break in and steal. Material possessions are temporary and vulnerable to loss, providing false security that disappears when economic conditions change or death comes.
+
+²⁰ Instead, store up treasures in heaven where insects and rust cannot destroy, and thieves cannot break in and steal. Eternal investments in God's Kingdom through generosity, service, and spiritual growth yield permanent rewards.
+
+²¹ For wherever your treasure is located, there your heart will be also. Your financial priorities reveal and reinforce your deepest values and loves, either tying your affections to temporary earthly concerns or eter
 
   ## Chapter 18
 ¹ The followers gathered around Jesus, eager to understand greatness. He motioned to a child, saying, “True honor comes only when you let go of pride, like this little one—trusting God the Father completely, not relying on your own strength or wisdom.”
