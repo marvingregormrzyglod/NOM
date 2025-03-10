@@ -1,6 +1,6 @@
   # The Psalms
 
-  ## Psalm 23
+  ## Psalm 23 - The Lord is My Shepherd
 
 ¹ The Lord, the Almighty and loving Shepherd, is my guide and provider; because He cares for me, I lack nothing that is truly needed. He watches over me with tender care, ensuring that my soul is nourished, my heart is secure, and my path is clear. No earthly wealth or status could offer the peace and fulfillment that come from His presence.
 
@@ -14,7 +14,7 @@
 
 ⁶ Surely, Your goodness and unfailing mercy will follow me every day of my life, never leaving me, never failing me. And at the end of my journey, I will dwell in Your house, Lord, forever, resting in the place of eternal joy, where Your love never fades, and my soul is home at last.
 
-## Psalm 36
+## Psalm 36 - The Steadfast Love of God
 ¹ My heart understands how sin speaks to the wicked person deep inside, telling them to do wrong things. They have no fear of God the Father, which is why they continue making these harmful choices that hurt themselves and others around them.
 
 ² These people deceive themselves, thinking their sinful actions will never be discovered or punished by God the Father. They refuse to see how their hatred creates destruction in their lives and communities.
@@ -39,8 +39,7 @@
 
 ¹² Look at what happened to those who practice evil—they have fallen down and cannot get up again. They've been thrown down and cannot return to their former position because they separated themselves from your life-giving presence.
 
-## Psalm 127
-
+## Psalm 127 - Unless the Lord Builds the House
 ¹ Unless God the Father directs the building of a house, those working on it are wasting their energy and time. Unless God the Father watches over the city, those guarding it stay awake through the night unnecessarily. Our human efforts alone cannot create lasting security without divine blessing and guidance.
 
 ² It's pointless for you to wake up early, stay up late, and exhaust yourself working for food that never truly satisfies. God the Father gives peaceful sleep and true rest to those He loves, showing that our worth isn't found in constant productivity but in trusting His provision.
