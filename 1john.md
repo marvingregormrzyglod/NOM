@@ -1,6 +1,6 @@
 # The 1st Letter of John
 
-## Chapter 3
+## Chapter 3 - Children of God
 ¹ See what amazing love God the Father has given us, that we should be called His children - and that is truly what we are! The world doesn't recognize us as God's family because the world didn't recognize Jesus when He was here.
 
 ² Dear friends, we are already God the Father's children right now, but what we will become in the future hasn't yet been revealed. We know that when Jesus appears at His return, we'll become like Him because we'll see Him as He truly is.
