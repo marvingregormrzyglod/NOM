@@ -1,6 +1,6 @@
   # The Gospel of Matthew
 
-  ## Chapter 6
+  ## Chapter 6 - Seeking God’s Kingdom First
 ¹ Be careful not to perform your religious duties in front of others just to be seen and praised by them. If gaining human approval is your primary motivation, you'll receive no reward from God the Father who values sincere hearts above public displays of piety.
 
 ² When you give to those in need, don't announce it with trumpets as the hypocrites do in places of worship and on streets. They seek human praise as their full reward, but this temporary recognition cannot compare to God the Father's eternal approval.
@@ -69,7 +69,7 @@
 
 ³⁴ Therefore don't worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. Live fully present in today's challenges and opportunities rather than borrowing tomorrow's troubles prematurely.
 
-  ## Chapter 18
+  ## Chapter 18 - Humility, Forgiveness, and Lost Sheep
 ¹ At that time the disciples approached Jesus asking, "Who is considered greatest in the Kingdom of Heaven?" Their question revealed their continuing misunderstanding of spiritual greatness, still thinking in terms of worldly power and position.
 
 ² Jesus called a small child to stand among them in the middle of their circle. By using this living object lesson, He challenged their assumptions about greatness through someone society considered insignificant and without status.
