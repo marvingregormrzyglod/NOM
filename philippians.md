@@ -1,7 +1,6 @@
   # The Letter to the Philippians
 
-## Chapter 2
-
+## Chapter 2 - The Humility of Christ and the Call to Unity
 ¹ If our connection with Jesus has given you any encouragement, if His love has provided any comfort, if the Holy Spirit has created any fellowship among us, if you've experienced any tenderness or compassion from God the Father, then respond to these blessings by uniting with fellow believers.
 
 ² Make my joy complete by thinking the same way, sharing the same love, being united in spirit, and focusing on one purpose together. This unity doesn't mean uniformity but harmony in essential beliefs while accepting diversity in non-essentials.
