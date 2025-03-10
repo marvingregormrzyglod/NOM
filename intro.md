@@ -4,9 +4,9 @@
 
 > Yum yum yum ... your daily bread
 
-> Jeremiah 15:16
 > When I discovered your words, I devoured them.
 > They are my joy and my heart’s delight.
+> <br> Jeremiah 15:16
 
 - A new bible translation
 - Read in bite-sized chunks
